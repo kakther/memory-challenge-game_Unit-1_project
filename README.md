@@ -1,3 +1,7 @@
+
+<img src="https://imgur.com/BlaTOM2">
+
+
 # Introduction
 
 This app is a deliverable for an assignment in for my General Assembly curriculum for JavaScript Objects.  The goal is to create a browser game that makes the user challenge their brain to play the game.
@@ -8,7 +12,7 @@ See *Appendix A: Assignment from General Assembly* for more information.
 
 The version of this app currently uploaded is 1.0.0.  In cases where I update the README without any updates to the website itself I do not update the version number or use branches for my work.  Each version number will lack a commit number until the next version is uploaded.  The commit number is always added retroactively as it's generated at the time that I commit the project.  In general, for version number format X.Y.Z:
 
-# Instructions for Use
+# Instructions for User
 1. Ensure your set of cards contains all matching pairs.
 2. Shuffle and spread all cards out on a flat surface, face down.
 3. Players take it in turns to choose any two cards. Make a successful match and you get to take another turn. No match, the cards are returned to their original position.
@@ -29,7 +33,7 @@ The version of this app currently uploaded is 1.0.0.  In cases where I update th
 * HTML5 and CSS
 * JavaScript ES6
 
-**I built this app with:**
+**I builted this app with:**
 * [VSCode](https://code.visualstudio.com/) version 1.53.2
 * [Google Chrome](https://www.google.com/chrome/) version 88.0.4324.192 (Official Build) (arm64)
 * [Homebrew](https://brew.sh/) 3.0.2
