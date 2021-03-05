@@ -1,5 +1,5 @@
 
-<img src="https://imgur.com/BlaTOM2">
+<img src="https://imgur.com/BlaTOM2.png">
 
 
 # Introduction
