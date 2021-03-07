@@ -1,8 +1,41 @@
-.front-face{
-    height: 20px;
-    width: 100%;
+body {
+    height: 100vh;
+    background-color: lightyellow;
+    box-sizing: border-box;
+}
+
+#chaMemory{
+    text-align: center;
+}
+
+
+* {
+    padding: 0%;
+    margin: 0%;
+    
+
 }
 
 img {
     width: 100px;
+}
+
+.memory-game {
+    border: 2px solid lightyellow;
+    width: 640px;
+    height: 640px;
+    display: flex;
+}
+
+.memory-card {
+    border: 2px solid blue;
+}
+
+.front-face,
+.back-face {
+    border: 2px solid red;
+}
+
+#btn {
+    text-align: center;
 }
