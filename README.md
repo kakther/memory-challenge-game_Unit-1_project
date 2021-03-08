@@ -20,7 +20,10 @@ The version of this app currently uploaded is 1.0.0.  In cases where I update th
 5. The winner is the person who has matched the most pairs.
 
 
-
+# How I build the Memory Game 
+I maniulated the DOM the Vanila JS, altered part of the HTML and also styed the game 
+    . create a deck of cards that shuffles when game is refreshed 
+    . 
 **Correct**
 
 
